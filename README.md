@@ -17,7 +17,7 @@
 <p align="justify">
 O Projeto amigo secreto é um projeto desenvolvido no curso da Alura com a ONE, programa de sorteio de amigos aleatorio depois de digitar uma quantidade de nomes.
 
-![Descrição do projeto numero secreto.](https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png)
+![Descrição do projeto numero secreto.](![amigo-secreto](https://github.com/user-attachments/assets/5a36bece-33ea-440a-bfb1-14b7f1222a48))
 </p>
 
 ## Funcionalidades
