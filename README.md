@@ -24,7 +24,7 @@ O Projeto amigo secreto é um projeto desenvolvido no curso da Alura com a ONE, 
 
 :heavy_check_mark: `Funcionalidade 1:` Realizar cadastro de amigos.
 
-:heavy_check_mark: `Funcionalidade 2:`Sorteia um amigo aleatoriamento.
+:heavy_check_mark: `Funcionalidade 2:`Sorteia um amigo aleatoriamente.
 
 
 ## Aplicação
